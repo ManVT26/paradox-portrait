@@ -1,0 +1,9 @@
+{
+  "prompt": "Cinematic wide-angle landscape with a strongly flattened, near-orthographic perspective that minimizes depth cues and prevents normal 3D interpretation. A hillside constructed from multiple disconnected, parallel path segments, each appearing as a distinct, evenly spaced strip of worn earth. Each individual segment has a clearly visible incline rising from left to right, with consistent orientation across all segments. However, the base terrain beneath these segments forms a continuous surface that unmistakably slopes downward from left to right when perceived as a whole. The segments are not connected and do not align spatially in depth; their endpoints contradict the underlying terrain, creating an impossible geometric relationship. Shadows and terrain contours reinforce both the local upward slopes and the global downward slope simultaneously, without allowing a coherent physical resolution. Terrain details are simplified to emphasize geometric structure over natural realism, with reduced vegetation and minimal atmospheric perspective. Lighting is warm golden hour with controlled contrast. Color palette: warm amber earth, muted greens, soft distant blue. Mood: perceptual conflict, structural impossibility, quiet but undeniable wrongness. Photorealistic, no text, no charts, no symbols, no annotations.",
+  
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  
+  "paradox": "Simpson's Paradox",
+  
+  "visual_logic": "Each disconnected path segment represents an independent subgroup, all showing a consistent upward trend (local slope). However, when visually integrated through the underlying terrain, the combined structure produces a downward global slope. The contradiction is enforced by breaking spatial continuity and flattening perspective, preventing the viewer from resolving both trends within a single coherent 3D interpretation."
+}
